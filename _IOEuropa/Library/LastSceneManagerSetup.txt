@@ -1,8 +1,0 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Scenes/IoEuropa.unity
-=======
-- path: Assets/jimit.unity
->>>>>>> f38b4e7b31088a89d613d7be9bf7c89794aaa03b
-  isLoaded: 1
-  isActive: 1
