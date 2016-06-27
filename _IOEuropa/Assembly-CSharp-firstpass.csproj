@@ -55,7 +55,6 @@
      <None Include="Assets\Assets\CapturePanorama\README.txt" />
      <None Include="Assets\_AssetStoreProducts\_CompletedAssets\SampleAssets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
      <None Include="Assets\GitUploadTest.txt" />
-     <None Include="Assets\MeshBrush\Editor\FavouriteTemplates.xml" />
      <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Assets\CapturePanorama\Compute Shaders\TextureToBufferShader.compute" />
@@ -72,19 +71,15 @@
      <None Include="Assets\Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <None Include="Assets\_AssetStoreProducts\_CompletedAssets\SampleAssets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
      <None Include="Assets\Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetation 1.shader" />
      <None Include="Assets\_AssetStoreProducts\_CompletedAssets\SampleAssets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\_AssetStoreProducts\_CompletedAssets\SampleAssets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
      <None Include="Assets\Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
-     <None Include="Assets\MeshBrush\SimpleVegetation.shader" />
      <None Include="Assets\Assets\Standard Assets\Cameras\CameraGuidelines.txt" />
      <None Include="Assets\Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
      <None Include="Assets\Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
      <None Include="Assets\Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetationUnlit 1.shader" />
-     <None Include="Assets\MeshBrush\SimpleVegetationUnlit.shader" />
      <None Include="Assets\Assets\CapturePanorama\Compute Shaders\ConvertPanoramaStereoShader.compute" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
