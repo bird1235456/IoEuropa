@@ -9,10 +9,6 @@ Project("{ED80C07E-4DB8-8246-A7BF-80F293300181}") = "_IOEuropa", "Assembly-CShar
 EndProject
 Project("{ED80C07E-4DB8-8246-A7BF-80F293300181}") = "_IOEuropa", "Assembly-CSharp-Editor.csproj", "{5FFDB6A4-575F-F177-F22F-02844FE20AA7}"
 EndProject
-Project("{ED80C07E-4DB8-8246-A7BF-80F293300181}") = "_IOEuropa", "Assembly-UnityScript.unityproj", "{1EF83004-FEA7-9440-693A-61FAB0BB23F4}"
-EndProject
-Project("{ED80C07E-4DB8-8246-A7BF-80F293300181}") = "_IOEuropa", "Assembly-UnityScript-Editor.unityproj", "{6AE228B8-4A80-0491-A71F-54B307FECD67}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,14 +31,6 @@ Global
 		{5FFDB6A4-575F-F177-F22F-02844FE20AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FFDB6A4-575F-F177-F22F-02844FE20AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FFDB6A4-575F-F177-F22F-02844FE20AA7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1EF83004-FEA7-9440-693A-61FAB0BB23F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1EF83004-FEA7-9440-693A-61FAB0BB23F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1EF83004-FEA7-9440-693A-61FAB0BB23F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1EF83004-FEA7-9440-693A-61FAB0BB23F4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6AE228B8-4A80-0491-A71F-54B307FECD67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6AE228B8-4A80-0491-A71F-54B307FECD67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6AE228B8-4A80-0491-A71F-54B307FECD67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6AE228B8-4A80-0491-A71F-54B307FECD67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,5 +54,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
